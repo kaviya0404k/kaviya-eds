@@ -185,5 +185,24 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "carousel",
+    "fields": [
+       {
+         "component": "text-area",
+         "name": "carousel",
+         "value": "",
+         "label": "carousel",
+         "valueType": "string"
+       },
+       {
+         "component": "text-input",
+         "valueType": "string",
+         "name": "author",
+         "label": "Author",
+         "value": ""
+       }
+     ]
   }
 ]
